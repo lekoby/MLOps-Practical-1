@@ -1,2 +1,3 @@
 # MLOps-Practical-1
-Course: Reproducability &amp; Model Deployment, 2025, Tilburg University
+Course: Reproducability and Model Deployment, Tilburg University
+Author: Lena Jakoby
